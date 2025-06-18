@@ -5,6 +5,4 @@
 
 My name is Leonardo, i am 17 years old.
 
-![snake gif](https://github.com/Leonardo-ol/Leonardo-ol/blob/output/github-contribution-grid-snake.svg)  
-
 - Thanks for visiting
